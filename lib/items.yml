@@ -1,7 +1,7 @@
 ---
 specialised:
-  'Normal Item': Normal
-  'Aged Brie': Brie
-  'Backstage passes to a TAFKAL80ETC concert': Backstage
+  'Normal Item': GildedRose::Normal
+  'Aged Brie': GildedRose::Brie
+  'Backstage passes to a TAFKAL80ETC concert': GildedRose::Backstage
 ---
 
